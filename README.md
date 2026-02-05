@@ -1,24 +1,195 @@
-# 💫 About Me:
-🔭 Backend & ML projects with Python  <br>🌱 Learning ML, FastAPI & DSA  <br>👯 Open to hackathons & open-source  <br>💬 Ask me about Python, ML & DSA  <br>⚡ Curious mind, consistent learner<br>
+# Hi 👋, I'm Saksham Singh
 
+💻 **Backend Developer | Machine Learning Enthusiast**  
+🎓 **B.Tech CSE Student** | 🚀 Aspiring AI & ML Engineer  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saksham.s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-singh18/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saksham_1807) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshamsingh1876@gmail.com) 
+I’m a Computer Science Engineering student with a strong interest in backend development and machine learning. I enjoy building scalable APIs, experimenting with ML models, and deploying end-to-end projects that solve real-world problems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-111827?style=for-the-badge&logo=uvicorn&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-0A1A2F?style=for-the-badge&logo=python&logoColor=white)![Pickle](https://img.shields.io/badge/Pickle-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge&logo=python&logoColor=white)
+---
 
+## 👨‍💻 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saksham-s18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saksham-s18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-s18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Working on backend-heavy projects using Python  
+- 🌱 Learning Machine Learning, FastAPI, and Data Structures & Algorithms  
+- 🧠 Interested in ML deployment, backend systems, and MLOps  
+- 👯 Open to hackathons, internships, and open-source contributions  
+- 💬 Ask me about Python, ML basics, Backend APIs, and DSA  
+- ⚡ Curious learner with a strong problem-solving mindset  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Programming Languages
+- Python, C, C++
+
+### ⚙️ Backend & APIs
+- FastAPI, Flask  
+- Jinja, Uvicorn, Gunicorn  
+- Postman, Swagger  
+
+### 🤖 Machine Learning & Data
+- scikit-learn  
+- NumPy, Pandas  
+- Matplotlib, Seaborn, Plotly  
+- SciPy, Statsmodels  
+- MLflow, Joblib / Pickle  
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, SQLite  
+- MongoDB, Supabase  
+
+### ☁️ DevOps & Deployment
+- AWS, Azure  
+- Docker  
+- GitHub Actions (CI/CD)  
+- Render, Vercel  
+
+### 🧰 Tools & Platforms
+- Git, GitHub, GitLab  
+- Linux  
+- Jupyter Notebook, Google Colab  
+- Selenium  
+- Twilio  
+
+---
+
+## 🚀 Projects
+
+### 🔹 ML Model Deployment Pipeline
+End-to-end ML project to predict student performance:
+- Data preprocessing & model training using scikit-learn  
+- REST API built with Flask  
+- CI/CD pipeline using GitHub Actions  
+- Deployed on AWS Elastic Beanstalk  
+
+**Focus:** MLOps, automation, and production deployment  
+
+---
+
+### 🔹 CivicHub
+A web-based platform aimed at improving civic engagement:
+- Backend API integration  
+- Interactive frontend features  
+- Scalable system design  
+
+**Focus:** Full-stack development & real-world applications  
+
+---
+
+## 📊 GitHub Stats
+<!-- Add GitHub stats card here -->
+
+---
+
+## 🌐 Connect With Me
+a# Hi 👋, I'm Saksham Singh
+
+💻 **Backend Developer | Machine Learning Enthusiast**  
+🎓 **B.Tech Computer Science Engineering Student**  
+🚀 Aspiring **AI & ML Engineer**
+
+I enjoy building **backend-heavy applications**, developing **machine learning models**, and deploying end-to-end systems that are scalable and production-ready.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Building backend systems and ML-driven applications using **Python**
+- 🌱 Currently learning **Machine Learning, FastAPI, and Data Structures & Algorithms**
+- 🧠 Interested in **model deployment, MLOps, and backend architecture**
+- 👯 Open to **hackathons, internships, and open-source collaboration**
+- 💬 Ask me about **Python, ML fundamentals, backend APIs, and DSA**
+- ⚡ Curious learner who believes in consistency over shortcuts
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Programming Languages
+- Python, C, C++
+
+### ⚙️ Backend & APIs
+- FastAPI, Flask  
+- Jinja, Uvicorn, Gunicorn  
+- Postman, Swagger  
+
+### 🤖 Machine Learning & Data
+- scikit-learn  
+- NumPy, Pandas  
+- Matplotlib, Seaborn, Plotly  
+- SciPy, Statsmodels  
+- MLflow, Joblib / Pickle  
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, SQLite  
+- MongoDB, Supabase  
+
+### ☁️ DevOps & Deployment
+- AWS, Azure  
+- Docker  
+- GitHub Actions (CI/CD)  
+- Render, Vercel  
+
+### 🧰 Tools & Platforms
+- Git, GitHub, GitLab  
+- Linux  
+- Jupyter Notebook, Google Colab  
+- Selenium  
+- Twilio  
+
+---
+
+## 🚀 Projects
+
+### 🔹 ML Model Deployment Pipeline
+End-to-end ML system to predict student performance:
+- Data preprocessing & model training with scikit-learn  
+- REST API built using Flask  
+- Automated CI/CD pipeline with GitHub Actions  
+- Deployed on AWS Elastic Beanstalk  
+
+**Focus:** MLOps, automation, and real-world deployment  
+
+---
+
+### 🔹 CivicHub
+A web-based platform designed to improve civic engagement:
+- Backend API integration  
+- Interactive frontend features  
+- Scalable and modular system design  
+
+**Focus:** Full-stack development & real-world problem solving  
+
+---
+
+## 📊 GitHub Stats
+<!-- Add GitHub stats card here -->
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/saksham-singh18
+- 🐦 X (Twitter): https://x.com/saksham_1807 
+- 📸 Instagram: https://www.instagram.com/saksham.s_
+- 📧 Email: mailto:sakshamsingh1876@gmail.com 
+- 🧑‍💻 GitHub: https://github.com/saksham-s18 
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to reach out if you’d like to collaborate on projects, discuss backend or ML ideas, or just have a tech conversation. I’m always open to learning and building together 🚀
+
+- LinkedIn  
+- X (Twitter)  
+- Instagram  
+- Email  
+
+---
+
+## ⚡ Fun Facts
+-   Beginner Kaggle competitor, always learning and improving
+- 🧠 Exploring ML + backend engineering  
+- 🚀 Goal: Become a production-ready AI/ML Engineer
