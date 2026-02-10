@@ -60,9 +60,7 @@ I enjoy building **backend-heavy applications**, developing **machine learning m
 
 - 💼 LinkedIn: https://www.linkedin.com/in/saksham-singh18
 - 🐦 X (Twitter): https://x.com/saksham_1807 
-- 📸 Instagram: https://www.instagram.com/saksham.s_
 - 📧 Email: mailto:sakshamsingh1876@gmail.com 
-- 🧑‍💻 GitHub: https://github.com/saksham-s18 
 
 ---
 
