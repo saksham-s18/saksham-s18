@@ -58,21 +58,11 @@ I enjoy building **backend-heavy applications**, developing **machine learning m
 
 ## 🌐 Connect With Me
 
+Feel free to reach out if you’d like to collaborate on projects, discuss backend or ML ideas, or just have a tech conversation. I’m always open to learning and building together 🚀
+
 - 💼 LinkedIn: https://www.linkedin.com/in/saksham-singh18
 - 🐦 X (Twitter): https://x.com/saksham_1807 
 - 📧 Email: mailto:sakshamsingh1876@gmail.com 
-
----
-
-## 🤝 Let’s Connect
-
-Feel free to reach out if you’d like to collaborate on projects, discuss backend or ML ideas, or just have a tech conversation. I’m always open to learning and building together 🚀
-
-- LinkedIn  
-- X (Twitter)  
-- Instagram  
-- Email  
-
 ---
 
 ## ⚡ Fun Facts
