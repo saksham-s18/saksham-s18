@@ -1,12 +1,17 @@
-# Hi 👋, I'm Saksham Singh
+<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 
-🤖 **AI Engineer | Generative & Agentic AI Developer**
-🎓 **B.Tech Computer Science Engineering Student**
-🚀 Building intelligent AI systems powered by LLMs, Machine Learning, and scalable backend technologies.
+<p align="center">
+🤖 AI Engineer | LLMs • RAG • Agentic AI • Machine Learning
+  <br>
+  🎓 <b>B.Tech Computer Science Engineering Student</b>
+  <br>
+🚀 Building intelligent AI systems powered by <b>LLMs, Machine Learning & Agentic AI</b>
+</p>
 
-I enjoy designing **AI-powered applications**, developing **machine learning solutions**, and building **autonomous AI agents** that solve real-world problems. My focus is on creating production-ready AI systems using modern AI frameworks and cloud technologies.
-
----
+<p align="center">
+I enjoy designing AI-powered applications, developing machine learning solutions,
+and building autonomous AI agents that solve real-world problems.
+</p>
 
 # 👨‍💻 About Me
 
