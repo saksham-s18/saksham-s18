@@ -1,71 +1,140 @@
-
 # Hi 👋, I'm Saksham Singh
 
-💻 **Backend Developer | Machine Learning Enthusiast**  
-🎓 **B.Tech Computer Science Engineering Student**  
-🚀 Aspiring **AI & ML Engineer**
+🤖 **AI Engineer | Generative & Agentic AI Developer**
+🎓 **B.Tech Computer Science Engineering Student**
+🚀 Building intelligent AI systems powered by LLMs, Machine Learning, and scalable backend technologies.
 
-I enjoy building **backend-heavy applications**, developing **machine learning models**, and deploying end-to-end systems that are scalable and production-ready.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Building backend systems and ML-driven applications using **Python**
-- 🌱 Currently learning **Machine Learning, FastAPI, and Data Structures & Algorithms**
-- 🧠 Interested in **model deployment, MLOps, and backend architecture**
-- 👯 Open to **hackathons, internships, and open-source collaboration**
-- 💬 Ask me about **Python, ML fundamentals, backend APIs, and DSA**
-- ⚡ Curious learner who believes in consistency over shortcuts
+I enjoy designing **AI-powered applications**, developing **machine learning solutions**, and building **autonomous AI agents** that solve real-world problems. My focus is on creating production-ready AI systems using modern AI frameworks and cloud technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### 🚀 Programming Languages
-- Python, C, C++
-
-### ⚙️ Backend & APIs
-- FastAPI, Flask  
-- Jinja, Uvicorn, Gunicorn  
-- Postman, Swagger  
-
-### 🤖 Machine Learning & Data
-- scikit-learn  
-- NumPy, Pandas  
-- Matplotlib, Seaborn, Plotly  
-- SciPy, Statsmodels  
-- MLflow, Joblib / Pickle  
-
-### 🗄️ Databases
-- MySQL, PostgreSQL, SQLite  
-- MongoDB, Supabase  
-
-### ☁️ DevOps & Deployment
-- AWS, Azure  
-- Docker  
-- GitHub Actions (CI/CD)  
-- Render, Vercel  
-
-### 🧰 Tools & Platforms
-- Git, GitHub, GitLab  
-- Linux  
-- Jupyter Notebook, Google Colab  
-- Selenium  
-- Twilio  
+* 🤖 Building AI-powered applications with **LLMs, RAG, and AI Agents**
+* 🌱 Continuously learning and exploring the latest advancements in **Generative AI, Agentic AI, and MLOps**
+* 🧠 Interested in **Multi-Agent Systems, Model Context Protocol (MCP), AI Workflows, and Intelligent Automation**
+* 🚀 Experienced in deploying AI and ML applications to production
+* 👯 Open to **AI internships, hackathons, research, and open-source contributions**
+* 💬 Ask me about **Generative AI, Agentic AI, Machine Learning, Python, FastAPI, and DSA**
+* ⚡ Passionate about building AI systems that can reason, use tools, and automate complex tasks.
 
 ---
 
-## 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-Feel free to reach out if you’d like to collaborate on projects, discuss backend or ML ideas, or just have a tech conversation. I’m always open to learning and building together 🚀
+## 🚀 Programming Languages
 
-- 💼 LinkedIn: https://www.linkedin.com/in/saksham-singh18
-- 🐦 X (Twitter): https://x.com/saksham_1807 
-- 📧 Email: mailto:sakshamsingh1876@gmail.com 
+* Python
+* C
+* C++
+
 ---
 
-## ⚡ Fun Facts
--   Beginner Kaggle competitor, always learning and improving
-- 🧠 Exploring ML + backend engineering  
-- 🚀 Goal: Become a production-ready AI/ML Engineer
+## 🤖 Artificial Intelligence
+
+### Machine Learning
+
+* Scikit-learn
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* SciPy
+* Statsmodels
+* MLflow
+* Joblib / Pickle
+
+### Generative AI
+
+* OpenAI API
+* Google Gemini API
+* Hugging Face
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* Vector Embeddings
+* FAISS
+
+### Agentic AI
+
+* LangChain
+* LangGraph
+* OpenAI Agents SDK
+* Google Gen AI SDK (GDK)
+* Model Context Protocol (MCP)
+* Multi-Agent Systems
+* AI Tool Calling
+* Structured Outputs
+* Memory Management
+* Agent Workflows
+
+---
+
+## ⚙️ Backend & APIs
+
+* FastAPI
+* Flask
+* Node.js
+* Vue.js
+* Jinja2
+* Uvicorn
+* Gunicorn
+* REST APIs
+* Postman
+* Swagger / OpenAPI
+
+---
+
+## 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+* SQLite
+* MongoDB
+* Supabase
+* Neo4j
+
+---
+
+## ☁️ Cloud & DevOps
+
+* Docker
+* GitHub Actions (CI/CD)
+* AWS
+* Azure
+* Render
+* Vercel
+
+---
+
+## 🧰 Tools & Platforms
+
+* Git
+* GitHub
+* GitLab
+* Linux
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Selenium
+* Twilio
+
+---
+
+# 🌐 Connect With Me
+
+Feel free to connect if you're interested in collaborating on AI projects, LLM applications, research, or open-source development.
+
+* 💼 LinkedIn: https://www.linkedin.com/in/saksham-singh18
+* 🐦 X (Twitter): https://x.com/saksham_1807
+* 📧 Email: [sakshamsingh1876@gmail.com](mailto:sakshamsingh1876@gmail.com)
+
+---
+
+# ⚡ Fun Facts
+
+* 🤖 Building AI agents that can reason, plan, and use tools autonomously.
+* 🧩 Passionate about LLMs, RAG, and production-grade AI systems.
+* 🏆 Regularly solving DSA problems and participating in hackathons.
+* 📚 Always exploring the latest AI frameworks and research.
+* 🚀 Goal: Build impactful AI products and become a world-class AI Engineer.
