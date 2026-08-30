@@ -130,7 +130,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saksham-s18/saksham-s18/output/github-contribution-grid-snake.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/saksham-s18/saksham-s18/gh-pages/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
 > ℹ️ To activate the snake animation, add the workflow from
