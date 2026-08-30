@@ -133,9 +133,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/saksham-s18/saksham-s18/gh-pages/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
-> ℹ️ To activate the snake animation, add the workflow from
-> [Platane/snk](https://github.com/Platane/snk) to this repo — it auto-generates the SVG above from your contribution graph every day.
-
 <br/>
 
 ## 🌐 Let's Connect & Build
